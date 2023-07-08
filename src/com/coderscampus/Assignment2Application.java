@@ -4,6 +4,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Assignment2Application {
+	
+//	Generate a random number between 1 - 100 
 
 	public static void main(String[] args) {
 
