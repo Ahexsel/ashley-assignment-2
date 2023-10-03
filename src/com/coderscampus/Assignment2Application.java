@@ -30,7 +30,8 @@ public class Assignment2Application {
 			break;
 			}
 			else if (g < 1 || g > 100) {
-			System.out.println("Your guess is not between 1 and 100, please try again");	
+			System.out.println("Your guess is not between 1 and 100, please try again");
+			continue;
 			}
 			else if (r > g) {
 			System.out.println("Please pick a higher number");
